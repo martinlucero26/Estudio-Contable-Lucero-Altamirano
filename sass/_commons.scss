@@ -65,9 +65,17 @@ nav{
     display: flex;
     ul li{
         font-size: map-get($map:$fontsize, $key: "16px");
-        font-weight: bold;
+        .nav-link{
+            color: #000;
+            font-weight: bold;
+            &:hover{
+                color: #fff !important;
+            }
+        }
     }
 }
+
+
 
 .bg-pink{
     background-color: map-get($map:$paleta, $key: "dos");
