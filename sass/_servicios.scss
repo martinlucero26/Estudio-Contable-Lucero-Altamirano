@@ -6,6 +6,7 @@
     margin-bottom: 20px;
     font-size: map-get($map: $fontsize, $key:"40px" );
     font-family: $font1;
+    @media (min-width: 200px){text-align: center;}
 }
 
 .h2Servicios{
