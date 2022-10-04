@@ -111,4 +111,28 @@ nav{
 .textDecoration{
     text-decoration: none;
 }
+
+.footerBackground{
+    width: 100%;
+    height: auto;
+    background-color: map-get($map: $paleta, $key:"dos" );
+}
+
+.breadcrumbStyle{
+    @include displaycenter (flex,center,center);
+    @media (max-width: 992px){display: none;}
+}
+
+.breadcrumbItemStyle{
+    color: map-get($map: $paleta, $key:"once" );
+    text-decoration: none;
+    font-weight: bold;
+    &:hover{
+        color: #000;
+    }
+}
+
+.breadcrumbPage{
+    color: map-get($map: $paleta, $key:"once" );
+}
 //termina footer

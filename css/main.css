@@ -76,6 +76,36 @@ nav ul li .nav-link:hover {
   text-decoration: none;
 }
 
+.footerBackground {
+  width: 100%;
+  height: auto;
+  background-color: #D8B08C;
+}
+
+.breadcrumbStyle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 992px) {
+  .breadcrumbStyle {
+    display: none;
+  }
+}
+
+.breadcrumbItemStyle {
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+}
+.breadcrumbItemStyle:hover {
+  color: #000;
+}
+
+.breadcrumbPage {
+  color: #000;
+}
+
 * {
   margin: 0px;
   padding: 0px;
@@ -145,6 +175,36 @@ nav ul li .nav-link:hover {
 
 .textDecoration {
   text-decoration: none;
+}
+
+.footerBackground {
+  width: 100%;
+  height: auto;
+  background-color: #D8B08C;
+}
+
+.breadcrumbStyle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 992px) {
+  .breadcrumbStyle {
+    display: none;
+  }
+}
+
+.breadcrumbItemStyle {
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+}
+.breadcrumbItemStyle:hover {
+  color: #000;
+}
+
+.breadcrumbPage {
+  color: #000;
 }
 
 .h1Index {
@@ -262,6 +322,36 @@ nav ul li .nav-link:hover {
 
 .textDecoration {
   text-decoration: none;
+}
+
+.footerBackground {
+  width: 100%;
+  height: auto;
+  background-color: #D8B08C;
+}
+
+.breadcrumbStyle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 992px) {
+  .breadcrumbStyle {
+    display: none;
+  }
+}
+
+.breadcrumbItemStyle {
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+}
+.breadcrumbItemStyle:hover {
+  color: #000;
+}
+
+.breadcrumbPage {
+  color: #000;
 }
 
 .h1QSomos {
@@ -476,6 +566,36 @@ nav ul li .nav-link:hover {
   text-decoration: none;
 }
 
+.footerBackground {
+  width: 100%;
+  height: auto;
+  background-color: #D8B08C;
+}
+
+.breadcrumbStyle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 992px) {
+  .breadcrumbStyle {
+    display: none;
+  }
+}
+
+.breadcrumbItemStyle {
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+}
+.breadcrumbItemStyle:hover {
+  color: #000;
+}
+
+.breadcrumbPage {
+  color: #000;
+}
+
 .h1Servicios, .h2Servicios {
   display: flex;
   justify-content: center;
@@ -611,6 +731,36 @@ nav ul li .nav-link:hover {
   text-decoration: none;
 }
 
+.footerBackground {
+  width: 100%;
+  height: auto;
+  background-color: #D8B08C;
+}
+
+.breadcrumbStyle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 992px) {
+  .breadcrumbStyle {
+    display: none;
+  }
+}
+
+.breadcrumbItemStyle {
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+}
+.breadcrumbItemStyle:hover {
+  color: #000;
+}
+
+.breadcrumbPage {
+  color: #000;
+}
+
 .h1Instructivos {
   display: flex;
   justify-content: center;
@@ -715,6 +865,36 @@ nav ul li .nav-link:hover {
   text-decoration: none;
 }
 
+.footerBackground {
+  width: 100%;
+  height: auto;
+  background-color: #D8B08C;
+}
+
+.breadcrumbStyle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 992px) {
+  .breadcrumbStyle {
+    display: none;
+  }
+}
+
+.breadcrumbItemStyle {
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+}
+.breadcrumbItemStyle:hover {
+  color: #000;
+}
+
+.breadcrumbPage {
+  color: #000;
+}
+
 .colorCardVencimientos {
   background-color: #D8B08C;
 }
@@ -805,6 +985,36 @@ nav ul li .nav-link:hover {
 
 .textDecoration {
   text-decoration: none;
+}
+
+.footerBackground {
+  width: 100%;
+  height: auto;
+  background-color: #D8B08C;
+}
+
+.breadcrumbStyle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 992px) {
+  .breadcrumbStyle {
+    display: none;
+  }
+}
+
+.breadcrumbItemStyle {
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+}
+.breadcrumbItemStyle:hover {
+  color: #000;
+}
+
+.breadcrumbPage {
+  color: #000;
 }
 
 @media (max-width: 991.98px) {
@@ -900,6 +1110,10 @@ nav ul li .nav-link:hover {
   height: 500px;
   -o-object-fit: cover;
      object-fit: cover;
+}
+
+.heightTextArea {
+  height: 150px;
 }
 
 .container {
