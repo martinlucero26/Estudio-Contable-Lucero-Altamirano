@@ -81,6 +81,11 @@ nav ul li .nav-link:hover {
   height: auto;
   background-color: #D8B08C;
 }
+@media (max-width: 992px) {
+  .footerBackground {
+    background-color: #F2CCB5;
+  }
+}
 
 .breadcrumbStyle {
   display: flex;
@@ -181,6 +186,11 @@ nav ul li .nav-link:hover {
   width: 100%;
   height: auto;
   background-color: #D8B08C;
+}
+@media (max-width: 992px) {
+  .footerBackground {
+    background-color: #F2CCB5;
+  }
 }
 
 .breadcrumbStyle {
@@ -328,6 +338,11 @@ nav ul li .nav-link:hover {
   width: 100%;
   height: auto;
   background-color: #D8B08C;
+}
+@media (max-width: 992px) {
+  .footerBackground {
+    background-color: #F2CCB5;
+  }
 }
 
 .breadcrumbStyle {
@@ -571,6 +586,11 @@ nav ul li .nav-link:hover {
   height: auto;
   background-color: #D8B08C;
 }
+@media (max-width: 992px) {
+  .footerBackground {
+    background-color: #F2CCB5;
+  }
+}
 
 .breadcrumbStyle {
   display: flex;
@@ -736,6 +756,11 @@ nav ul li .nav-link:hover {
   height: auto;
   background-color: #D8B08C;
 }
+@media (max-width: 992px) {
+  .footerBackground {
+    background-color: #F2CCB5;
+  }
+}
 
 .breadcrumbStyle {
   display: flex;
@@ -870,6 +895,11 @@ nav ul li .nav-link:hover {
   height: auto;
   background-color: #D8B08C;
 }
+@media (max-width: 992px) {
+  .footerBackground {
+    background-color: #F2CCB5;
+  }
+}
 
 .breadcrumbStyle {
   display: flex;
@@ -991,6 +1021,11 @@ nav ul li .nav-link:hover {
   width: 100%;
   height: auto;
   background-color: #D8B08C;
+}
+@media (max-width: 992px) {
+  .footerBackground {
+    background-color: #F2CCB5;
+  }
 }
 
 .breadcrumbStyle {
