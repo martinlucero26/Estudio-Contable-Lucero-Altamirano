@@ -13,8 +13,8 @@ A través de las distintas páginas que conforman al sitio web, podrás conocer 
 
 <h2>Previsualización del index</h2>
 
-![](../../../screenindex1.png)
+![](../../../ScreenIndex1.png)
 
-![](../../../screenindex2.png)
+![](../../../ScreenIndex2.png)
 
-![](../../../screenindex3.png)
+![](../../../ScreenIndex3.png)
