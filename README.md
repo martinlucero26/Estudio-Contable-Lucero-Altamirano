@@ -13,11 +13,11 @@ A través de las distintas páginas que conforman al sitio web, podrás conocer 
 
 <h2>Previsualización del index</h2>
 
-![](images/screenIndex1.png)
+![](images/screenIndex1)
 
-![](images/screenIndex2.png)
+![](images/screenIndex2)
 
-![](images/screenIndex3.png)
+![](images/screenIndex3)
 
 <h2>Estado del proyecto</h2>
 El proyecto está parcialmente finalizado, pero aún sujeto a potenciales cambios.
