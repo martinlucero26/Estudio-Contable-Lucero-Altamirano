@@ -1,5 +1,3 @@
-# Estudio-Contable-Lucero-Altamirano
-
 <h1>Estudio Contable Lucero Altamirano</h1>
 
  ![](images/logo%20estudio.webp)
@@ -15,8 +13,8 @@ A través de las distintas páginas que conforman al sitio web, podrás conocer 
 
 <h2>Previsualización del index</h2>
 
-![](images/Captura%20de%20pantalla%202022-09-27%20130032.png)
+![](../../../screenindex1.png)
 
-![](images/Captura%20de%20pantalla%202022-09-27%20130115.png)
+![](../../../screenindex2.png)
 
-![](images/Captura%20de%20pantalla%202022-09-27%20130148.png)
+![](../../../screenindex3.png)
