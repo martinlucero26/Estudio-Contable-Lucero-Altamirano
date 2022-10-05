@@ -14,9 +14,10 @@
 }
 
 .h2CardInstructivos{
-    font-size: 2.5em;
+    font-size: map-get($map: $fontsize, $key:"25px" );
     text-align: center;
     margin-bottom: 0px;
+    font-weight: bold;
 }
 
 .card-body-instructivos{
