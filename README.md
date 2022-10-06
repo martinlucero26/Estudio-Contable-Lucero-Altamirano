@@ -11,7 +11,7 @@ A través de las distintas páginas que conforman al sitio web, podrás conocer 
 ¡Muchas gracias por tu visita!
 </p>
 
-<h2>Previsualización del index</h2>
+<h2>Previsualización del Index</h2>
 
 ![](images/screenreadme1.png)
 
