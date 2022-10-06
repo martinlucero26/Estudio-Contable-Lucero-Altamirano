@@ -624,6 +624,7 @@ nav ul li .nav-link:hover {
   margin-bottom: 20px;
   font-size: 2.5em;
   font-family: "Bitter", serif;
+  font-weight: bold;
 }
 @media (min-width: 200px) {
   .h1Servicios, .h2Servicios {
